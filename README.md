@@ -1,6 +1,6 @@
 # Nexora – AI Powered Startup Incubation Management Platform
 
-![Nexora Platform](https://img.shields.io/badge/Platform-Nexora-blue.svg)
+![Nexora](https://img.shields.io/badge/Platform-Nexora-blue.svg)
 ![Stack](https://img.shields.io/badge/Stack-MERN-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-purple.svg)
 
