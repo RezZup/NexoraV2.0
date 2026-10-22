@@ -63,7 +63,6 @@ nexora2.3/
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - [MongoDB](https://www.mongodb.com/) (Local or Atlas)
-- Git
 
 ### Installation Steps
 
